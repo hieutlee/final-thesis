@@ -1,0 +1,15 @@
+venv/
+.venv/
+classes/
+images/
+__pycache__/
+data/
+datasets/
+runs/
+weights/
+*.pt
+*.pth
+*.onnx
+*.zip
+*.mp4
+.env
